@@ -56,4 +56,19 @@ y =
 
     21
 ```
-###
+
+###Plotting
+```
+x = 0.0:100/pi:2*pi;
+y = sin(x);
+figure
+plot(x,y)
+```
+#####Result
+![plot one](https://i.imgur.com/VAzPCSQ.jpg)
+
+
+###More Plotting
+```
+
+```
