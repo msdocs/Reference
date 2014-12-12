@@ -3,7 +3,7 @@ Lab Final Reference
 
 This Repo is a reference for our EENG - 212L lab final
 
-Currently the refernce has material for
+Currently the reference has material for
 
 - Matlab
 	
