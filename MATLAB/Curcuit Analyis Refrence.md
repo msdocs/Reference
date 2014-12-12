@@ -5,82 +5,7 @@
 This is a Reference for EENG 212 Lab Final 
 
 ----------
-##Basics
-
-###Simple Arithmetic
-
-```
-EDU>> 4+4
-ans =
-
-     8
-```
-###Setting Variables 
-
-```
-EDU>> x=4
-
-x =
-     4
-
-EDU>> y=7
-
-y =
-     7
-
-EDU>> x * y
-
-ans =
-    28
-```
-
-###Creating a Matrix
-````
-x= [5 3 10;
-5 7 4;
-0 0 0]
-x =
-     5     3    10
-     5     7     4
-     0     0     0
-````
-###Creating an Algebraic Function 
-
-```
-x = 7
-y= 2*x+7
-x =
-
-     7
-y =
-
-    21
-```
-###Creating a Table
-
-
-````
-A = [1 4 7; 2 5 8; 3 6 9]
-
-T = array2table(A)
-T = 
-
-    A1    A2    A3
-    __    __    __
-
-    1     4     7 
-    2     5     8 
-    3     6     9 
-
-````
-
-#Matlab Manual 
-
-----------
-
-This is a reference for EENG 212's Lab Final
-
-----------
+-
 ##Basics
 
 ###Simple Arithmetic
@@ -146,7 +71,25 @@ EDU>> q = 5;
 
 ```
 
-##Basics++
+##Graphs and Tables
+
+###Creating a Table
+
+
+````
+A = [1 4 7; 2 5 8; 3 6 9]
+
+T = array2table(A)
+T = 
+
+    A1    A2    A3
+    __    __    __
+
+    1     4     7 
+    2     5     8 
+    3     6     9 
+
+````
 
 ###Plotting
 blah blah blah blah
