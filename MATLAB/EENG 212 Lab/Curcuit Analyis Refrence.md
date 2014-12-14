@@ -5,7 +5,6 @@
 This is a Reference for EENG 212 Lab Final 
 
 ----------
--
 ##Basics
 
 ###Simple Arithmetic
